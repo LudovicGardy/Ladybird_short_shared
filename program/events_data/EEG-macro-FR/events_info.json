@@ -1,0 +1,561 @@
+{
+    "Title": "Epileptic events database",
+    "Authors": {
+        "Names": [
+            "Ludovic GARDY",
+            "Jonathan CUROT",
+            "Luc VALTON",
+            "Christophe HURTER",
+            "Emmanuel J. BARBEAU"
+        ],
+        "Titles": [
+            "PhD - Research engineer",
+            "MD, PhD - Epileptologist",
+            "MD - Epileptologist",
+            "PhD - Research director",
+            "PhD - Professor"
+        ],
+        "Affiliations": [
+            "CerCo, CNRS UMR5549, Toulouse, France",
+            "Purpan Hospital and CerCo, CNRS UMR5549, Toulouse, France",
+            "Purpan Hospital, Toulouse, France",
+            "CerCo, CNRS UMR5549, Toulouse, France",
+            "ENAC, Toulouse, France"
+        ],
+        "emails": [
+            "ludovic.gardy@cnrs.fr",
+            "curot.j@chu-toulouse.fr",
+            "valton.l@chu-toulouse.fr",
+            "christophe.hurter@enac.fr",
+            "emmanuel.barbeau@cnrs.fr"
+        ]
+    },
+    "last_event_done_(idx)": 0,
+    "events_info": [
+        {
+            "ID": 43,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "H_1-H_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 910.0799999999999,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-NUIT_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0476
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Noise",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 79,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "H_1-H_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 1349.3600000000001,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-NUIT_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.051
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 97,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "A'_1-A'_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 1549.78,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-NUIT_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0385
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 194,
+            "type": "Spk-FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "C_1-C_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 2111.42,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-NUIT_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0063
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 196,
+            "type": "Spk-FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "C_1-C_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 2112.18,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-NUIT_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0041
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Spk-FR",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 371,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "H_2-H_3",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 485.5,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-NUIT_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0022
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Noise",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 418,
+            "type": "Spk-FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "C_1-C_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 2409.5,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-NUIT_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.002
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 433,
+            "type": "Spk-FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "C_1-C_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 2444.08,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-NUIT_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.002
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 508,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "H_1-H_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 224.2,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0088
+            ],
+            "type_confidence": 1,
+            "predicted_type": "FR",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 509,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "H_2-H_3",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 224.2,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0033
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 585,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "H_1-H_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 487.54,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.438
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Noise",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 642,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "H_1-H_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 672.96,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0276
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Noise",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 643,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "H_2-H_3",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 672.96,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.019
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 648,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "H_1-H_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 676.76,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0189
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 649,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "H_2-H_3",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 676.76,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0385
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 703,
+            "type": "Spk-FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "C_1-C_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 884.62,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.051
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 778,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "H_1-H_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 1123.06,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0024
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Noise",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 805,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "H_1-H_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 1173.22,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0221
+            ],
+            "type_confidence": 1,
+            "predicted_type": "FR",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 907,
+            "type": "FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "H_1-H_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 1591.6,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0586
+            ],
+            "type_confidence": 1,
+            "predicted_type": "FR",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 927,
+            "type": "Spk-FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "B_1-B_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 1626.56,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0586
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Noise",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 931,
+            "type": "Spk-FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "C_1-C_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 1626.56,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0013
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 932,
+            "type": "Spk-FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "C_1-C_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 1626.56,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0013
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 934,
+            "type": "Spk-FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "B_1-B_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 1626.94,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0016
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 937,
+            "type": "Spk-FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "C_1-C_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 1626.94,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0032
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        },
+        {
+            "ID": 978,
+            "type": "Spk-FR",
+            "patient_num": "084",
+            "chan_type": "macro",
+            "chan_name": "C_1-C_2",
+            "sampling_frequency": 2048.0,
+            "eventTime_inFilename_(s)": 1734.1,
+            "event_duration_(s)": 0.0,
+            "extracted_signal_duration_(ms)": 400.0,
+            "scale_unit": "uV",
+            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
+            "eventOnset_inDatabase_(ms)": null,
+            "eventEnd_inDatabase_(ms)": null,
+            "Detection_predictions": [
+                0.0744
+            ],
+            "type_confidence": 1,
+            "predicted_type": "Candidate",
+            "detection_method": "automatic"
+        }
+    ]
+}

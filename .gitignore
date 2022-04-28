@@ -1,0 +1,8 @@
+### Ignore these folders
+__pycache__/
+.vs/
+derivatives/
+
+### Ignore these files
+Shared_scripts.pyproj
+Shared_scripts.sln

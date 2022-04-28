@@ -6,3 +6,4 @@ derivatives/
 ### Ignore these files
 Shared_scripts.pyproj
 Shared_scripts.sln
+start_demo_extended.ipynb

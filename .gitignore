@@ -2,6 +2,7 @@
 __pycache__/
 .vs/
 derivatives/
+program/.ipynb_checkpoints
 
 ### Ignore these files
 Shared_scripts.pyproj

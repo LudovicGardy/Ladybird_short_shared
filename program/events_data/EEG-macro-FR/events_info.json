@@ -33,27 +33,6 @@
     "last_event_done_(idx)": 0,
     "events_info": [
         {
-            "ID": 43,
-            "type": "FR",
-            "patient_num": "084",
-            "chan_type": "macro",
-            "chan_name": "H_1-H_2",
-            "sampling_frequency": 2048.0,
-            "eventTime_inFilename_(s)": 910.0799999999999,
-            "event_duration_(s)": 0.0,
-            "extracted_signal_duration_(ms)": 400.0,
-            "scale_unit": "uV",
-            "filename": "sub-084_ses-Macro01_task-NUIT_run-01.TRC",
-            "eventOnset_inDatabase_(ms)": null,
-            "eventEnd_inDatabase_(ms)": null,
-            "Detection_predictions": [
-                0.0476
-            ],
-            "type_confidence": 1,
-            "predicted_type": "Noise",
-            "detection_method": "automatic"
-        },
-        {
             "ID": 79,
             "type": "FR",
             "patient_num": "084",
@@ -429,111 +408,6 @@
             ],
             "type_confidence": 1,
             "predicted_type": "FR",
-            "detection_method": "automatic"
-        },
-        {
-            "ID": 927,
-            "type": "Spk-FR",
-            "patient_num": "084",
-            "chan_type": "macro",
-            "chan_name": "B_1-B_2",
-            "sampling_frequency": 2048.0,
-            "eventTime_inFilename_(s)": 1626.56,
-            "event_duration_(s)": 0.0,
-            "extracted_signal_duration_(ms)": 400.0,
-            "scale_unit": "uV",
-            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
-            "eventOnset_inDatabase_(ms)": null,
-            "eventEnd_inDatabase_(ms)": null,
-            "Detection_predictions": [
-                0.0586
-            ],
-            "type_confidence": 1,
-            "predicted_type": "Noise",
-            "detection_method": "automatic"
-        },
-        {
-            "ID": 931,
-            "type": "Spk-FR",
-            "patient_num": "084",
-            "chan_type": "macro",
-            "chan_name": "C_1-C_2",
-            "sampling_frequency": 2048.0,
-            "eventTime_inFilename_(s)": 1626.56,
-            "event_duration_(s)": 0.0,
-            "extracted_signal_duration_(ms)": 400.0,
-            "scale_unit": "uV",
-            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
-            "eventOnset_inDatabase_(ms)": null,
-            "eventEnd_inDatabase_(ms)": null,
-            "Detection_predictions": [
-                0.0013
-            ],
-            "type_confidence": 1,
-            "predicted_type": "Candidate",
-            "detection_method": "automatic"
-        },
-        {
-            "ID": 932,
-            "type": "Spk-FR",
-            "patient_num": "084",
-            "chan_type": "macro",
-            "chan_name": "C_1-C_2",
-            "sampling_frequency": 2048.0,
-            "eventTime_inFilename_(s)": 1626.56,
-            "event_duration_(s)": 0.0,
-            "extracted_signal_duration_(ms)": 400.0,
-            "scale_unit": "uV",
-            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
-            "eventOnset_inDatabase_(ms)": null,
-            "eventEnd_inDatabase_(ms)": null,
-            "Detection_predictions": [
-                0.0013
-            ],
-            "type_confidence": 1,
-            "predicted_type": "Candidate",
-            "detection_method": "automatic"
-        },
-        {
-            "ID": 934,
-            "type": "Spk-FR",
-            "patient_num": "084",
-            "chan_type": "macro",
-            "chan_name": "B_1-B_2",
-            "sampling_frequency": 2048.0,
-            "eventTime_inFilename_(s)": 1626.94,
-            "event_duration_(s)": 0.0,
-            "extracted_signal_duration_(ms)": 400.0,
-            "scale_unit": "uV",
-            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
-            "eventOnset_inDatabase_(ms)": null,
-            "eventEnd_inDatabase_(ms)": null,
-            "Detection_predictions": [
-                0.0016
-            ],
-            "type_confidence": 1,
-            "predicted_type": "Candidate",
-            "detection_method": "automatic"
-        },
-        {
-            "ID": 937,
-            "type": "Spk-FR",
-            "patient_num": "084",
-            "chan_type": "macro",
-            "chan_name": "C_1-C_2",
-            "sampling_frequency": 2048.0,
-            "eventTime_inFilename_(s)": 1626.94,
-            "event_duration_(s)": 0.0,
-            "extracted_signal_duration_(ms)": 400.0,
-            "scale_unit": "uV",
-            "filename": "sub-084_ses-Macro01_task-CLINVEILLE_run-01.TRC",
-            "eventOnset_inDatabase_(ms)": null,
-            "eventEnd_inDatabase_(ms)": null,
-            "Detection_predictions": [
-                0.0032
-            ],
-            "type_confidence": 1,
-            "predicted_type": "Candidate",
             "detection_method": "automatic"
         },
         {
